@@ -1,0 +1,5 @@
+PyQt5>=5.15.9
+wordcloud>=1.8.2
+deep-translator>=1.10.0
+lxml>=4.9.3
+requests>=2.31.0
